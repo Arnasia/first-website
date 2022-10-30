@@ -154,5 +154,8 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository, with a unique name and a README that describes the project.
 
+## Description
+This project is a well organizewd website that allows you to navigate smoothly. It is equipped with accessibility features; making it easy for anyone to use. You can read a bit about SEO(search engine optimization), online reputation management, and as well as social media marketing. On the right side it gives you a few pointers about lead generation,brand awareness, and cost mangement.
+
 ---
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
